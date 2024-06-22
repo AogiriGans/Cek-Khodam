@@ -1,0 +1,19 @@
+.container {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input[type="text"], input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
